@@ -1,5 +1,7 @@
 ASPNetCoreWebAPIDemo
 
+-Use Visual Studio 2022, NetCore 6 to build
+
 Install the Following NuGet Packages.
 
 - Microsoft.EntityFrameworkCore.SqlServer: This package is used to interact with SQL Server from our C# and .Net Core.
